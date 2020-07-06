@@ -8,12 +8,26 @@
 import React from "react"
 import PropTypes from "prop-types"
 import { useStaticQuery, graphql } from "gatsby"
+import { Box } from 'reakit';
+import styled from 'styled-components';
 
-import Header from "./header"
-import "./layout.css"
+import "./layout.css";
+
+const Container = styled(Box)`
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+
+  main{
+    flex: 1;
+  }
+`;
 
 const Layout = ({ children }) => {
-  const data = useStaticQuery(graphql`
+    const data = useStaticQuery(graphql`
     query SiteTitleQuery {
       site {
         siteMetadata {
@@ -23,29 +37,22 @@ const Layout = ({ children }) => {
     }
   `)
 
-  return (
-    <>
-      <Header siteTitle={data.site.siteMetadata.title} />
-      <div
-        style={{
-          margin: `0 auto`,
-          maxWidth: 960,
-          padding: `0 1.0875rem 1.45rem`,
-        }}
-      >
-        <main>{children}</main>
-        <footer>
-          © {new Date().getFullYear()}, Built with
-          {` `}
-          <a href="https://www.gatsbyjs.org">Gatsby</a>
-        </footer>
-      </div>
-    </>
-  )
+    return (
+        <>
+            <Container>
+                <main>{children}</main>
+                <footer>
+                    © {new Date().getFullYear()}, By
+                    {` `}
+                    <a href="https://tomaz.dobrisek.si">Tomaž Dobrišek</a>
+                </footer>
+            </Container>
+        </>
+    )
 }
 
 Layout.propTypes = {
-  children: PropTypes.node.isRequired,
+    children: PropTypes.node.isRequired,
 }
 
 export default Layout

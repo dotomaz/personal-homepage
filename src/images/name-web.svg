@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="585.73" height="61.943" version="1.1" viewBox="0 0 154.98 16.389">
+ <g transform="translate(-129.43 -79.131)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round">
+  <g stroke-width="1">
+   <path class="path-t" stroke-dashoffset="14" d="m135.62 81.61v12.091m-4.3676-12.091h8.7551" style="paint-order:normal"/>
+   <path class="path-o" stroke-dashoffset="26" d="m145.63 85.647-1.2309 0.5662-1.2706 1.1689-0.61543 1.7169v1.1507l0.61543 1.726 1.2706 1.1507 1.2309 0.57533h1.886l1.2507-0.57533 1.2507-1.1507 0.61543-1.726v-1.1507l-0.61543-1.7169-1.2507-1.1689-1.2507-0.5662h-1.886" style="paint-order:normal"/>
+   <path class="path-m" stroke-dashoffset="15" d="m155 85.647v8.0546m0-5.7533 1.886-1.7351 1.2507-0.5662h1.8662l1.2706 0.5662 0.61544 1.7351v5.7533m0-5.7533 1.886-1.7351 1.2309-0.5662h1.886l1.2507 0.5662 0.63529 1.7351v5.7533" style="paint-order:normal"/>
+   <path class="path-a" stroke-dashoffset="20" d="m180.65 85.647v8.0546m0-6.3195-1.2507-1.1689-1.2507-0.5662h-1.886l-1.2309 0.5662-1.2706 1.1689-0.61543 1.7169v1.1507l0.61543 1.726 1.2706 1.1507 1.2309 0.57533h1.886l1.2507-0.57533 1.2507-1.1507" style="paint-order:normal"/>
+   <path class="path-z" stroke-dashoffset="10" d="m191.9 85.647-6.8889 8.0546m0-8.0546h6.8889m-6.8889 8.0546h6.8889" style="paint-order:normal"/>
+   <path class="path-d" stroke-dashoffset="25" d="m203.78 81.61v12.091m0-12.091h4.3874l1.886 0.58446 1.2309 1.1507 0.63529 1.1507 0.63529 1.7169v2.8858l-0.63529 1.7169-0.63529 1.1598-1.2309 1.1507-1.886 0.57533h-4.3874" style="paint-order:normal"/>
+   <path class="path-o2" stroke-dashoffset="25" d="m219.42 85.647-1.2309 0.5662-1.2706 1.1689-0.61544 1.7169v1.1507l0.61544 1.726 1.2706 1.1507 1.2309 0.57533h1.886l1.2507-0.57533 1.2507-1.1507 0.61543-1.726v-1.1507l-0.61543-1.7169-1.2507-1.1689-1.2507-0.5662h-1.886" style="paint-order:normal"/>
+   <path class="path-b" stroke-dashoffset="20" d="m228.79 81.61v12.091m0-6.3195 1.2706-1.1689 1.2309-0.5662h1.886l1.2507 0.5662 1.2507 1.1689 0.61543 1.7169v1.1507l-0.61543 1.726-1.2507 1.1507-1.2507 0.57533h-1.886l-1.2309-0.57533-1.2706-1.1507" style="paint-order:normal"/>
+   <path class="path-r" stroke-dashoffset="8" d="m240.66 85.647v8.0546m0-4.6026 0.63529-1.7169 1.2507-1.1689 1.2507-0.5662h1.8662" style="paint-order:normal"/>
+   <path class="path-i" stroke-dashoffset="8" d="m248.19 81.61 0.61544 0.58446 0.63528-0.58446-0.63528-0.5662-0.61544 0.5662m0.61544 4.0364v8.0546" style="paint-order:normal"/>
+   <path class="path-s" stroke-dashoffset="26" d="m260.08 87.382-0.63528-1.1689-1.8662-0.5662h-1.886l-1.886 0.5662-0.61544 1.1689 0.61544 1.1324 1.2706 0.58446 3.1169 0.58446 1.2507 0.5662 0.63528 1.1507v0.57533l-0.63528 1.1507-1.8662 0.57533h-1.886l-1.886-0.57533-0.61544-1.1507" style="paint-order:normal"/>
+   <path class="path-e" stroke-dashoffset="30" d="m263.83 89.099h7.5043v-1.1507l-0.61544-1.1507-0.63529-0.58446-1.2507-0.5662h-1.886l-1.2309 0.5662-1.2706 1.1689-0.61543 1.7169v1.1507l0.61543 1.726 1.2706 1.1507 1.2309 0.57533h1.886l1.2507-0.57533 1.2507-1.1507" style="paint-order:normal"/>
+   <path class="path-k" stroke-dashoffset="13" d="m275.7 81.61v12.091m6.2735-8.0546-6.2735 5.7533m2.5014-2.3013 4.3875 4.6026" style="paint-order:normal"/>
+  </g>
+  <g transform="matrix(.26379 0 0 .094952 174.29 85.822)" stroke-width="6.2666">
+   <g transform="translate(37.798 -30.994)" stroke-width="6.2666">
+    <path transform="scale(.0508 -.0508)" d="M 158,441 346,0 M 536,441 346,0" stroke-width="123.36"/>
+   </g>
+  </g>
+  <g transform="matrix(.26379 0 0 .094952 241.85 86.065)" stroke-width="6.2666">
+   <g transform="translate(37.798 -30.994)" stroke-width="6.2666">
+    <path transform="scale(.0508 -.0508)" d="M 158,441 346,0 M 536,441 346,0" stroke-width="123.36"/>
+   </g>
+  </g>
+ </g>
+</svg>
